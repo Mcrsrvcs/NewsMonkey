@@ -1,0 +1,517 @@
+body{
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    overflow:hidden;
+    background-size: cover;
+    height: 100%;
+    max-width: 100%;
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+
+main{
+    height: 100vh;
+    max-width: 100%;
+    overflow-x: hidden;
+    overflow-y: hidden;
+
+}
+
+.navhead{
+background: rgba(187, 191, 212, 0.096);
+border-radius: 0px;
+box-shadow: 0 4px 30px rgb(25, 0, 255);
+backdrop-filter: blur(5px);
+-webkit-backdrop-filter: blur(5px);
+border: 1px solid rgba(0, 0, 0, 0);
+   display: flex;
+   align-content: center;
+}
+
+.hidenav{
+    visibility: hidden;
+    max-height: 0px;
+}
+
+#navtexthome{
+    visibility: hidden;
+    z-index: 2;
+    cursor: pointer;
+}
+
+#navtextabout{
+    visibility:hidden;
+    z-index: 2;
+    cursor: pointer;
+}
+
+#navtextservices{
+    visibility: hidden;
+    z-index: 2;
+    cursor: pointer;
+}
+
+#navtextsettings{
+    visibility:hidden;
+    z-index: 2;
+    cursor: pointer;
+}
+
+.ul-nav{
+
+    /* display:flex;
+    flex-direction:column; */
+    /* padding-left:0;
+    margin-bottom:0;
+    list-style:none;*/
+    flex-direction:row;
+    /* border:2px solid darkblue; */
+    width: 100%; 
+}
+
+.home{
+    background: rgba(0, 0, 0, 0.712);
+border-radius: 16px;
+box-shadow: 0 4px 30px rgb(15, 44, 206);
+backdrop-filter: blur(5px);
+-webkit-backdrop-filter: blur(5px);
+border: 0px solid rgba(0, 0, 0, 0);
+   padding: 0px;
+   margin:0px;
+   width: 50px;
+   text-align-last: center;
+}
+
+.home:hover{
+    background: linear-gradient(rgb(2, 0, 109),rgba(10, 77, 221, 0.466));
+    border-radius: 16px;
+    box-shadow: 0 4px 30px rgb(0, 26, 255);
+    backdrop-filter: blur(5px);
+    -webkit-backdrop-filter: blur(5px);
+    border: 0px solid rgba(0, 0, 0, 0);
+}
+
+.navtextitem{
+    background: linear-gradient(rgba(2, 0, 109, 0),rgba(10, 77, 221, 0));
+}
+
+.navbar-togglerz{
+    visibility: hidden;
+    background: rgba(0, 0, 0, 0.712);
+border-radius: 100px;
+box-shadow: 0 4px 30px rgb(15, 44, 206);
+backdrop-filter: blur(5px);
+-webkit-backdrop-filter: blur(5px);
+border: 0px solid rgba(0, 0, 0, 0);
+   padding: 0px;
+   margin:0px;
+   width: 30px;
+   height:45px;
+   text-align-last: center;
+}
+
+.navbar-togglerz:hover{
+    background: linear-gradient(rgb(2, 0, 109),rgba(10, 77, 221, 0.466));
+    border-radius: 16px;
+    box-shadow: 0 4px 30px rgb(0, 26, 255);
+    backdrop-filter: blur(5px);
+    -webkit-backdrop-filter: blur(5px);
+    border: 0px solid rgba(0, 0, 0, 0);
+}
+
+.li-btn{
+    max-height: 0px;
+}
+
+.navtextitem{
+    max-height: 1px;
+}
+
+.messagex{
+    background: rgba(191, 194, 207, 0.692);
+    border-radius: 10px;
+    box-shadow: 0 4px 30px rgb(25, 0, 255);
+    backdrop-filter: blur(5px);
+    -webkit-backdrop-filter: blur(5px);
+    border: 1px solid rgba(0, 0, 0, 0);
+}
+
+.meassageout{
+    border-radius: 10px 10px 10px 0px;
+}
+
+.messagein{
+    border-radius: 10px 10px 0px 10px;
+}
+
+.out{
+    width: 48%;
+    margin-top:5%;
+    margin-bottom:5%;
+    margin-right: 52%;
+    text-align: left;
+}
+
+.center{
+    max-width: 48%;
+    margin-top:5%;
+    margin-bottom:5%;
+    margin-left: 26%;
+    text-align: center;
+}
+
+.in{
+    width: 48%;
+    margin-top:5%;
+    margin-bottom:5%;
+    margin-left: 52%;
+    text-align:left;
+}
+
+
+.inmess{
+    width: fit-content;
+    padding: 2%;
+}
+
+.incen{
+    width: fit-content;
+    padding: 2%;
+}
+
+.peoples{
+    overflow-y: scroll;
+    max-height: 150px;
+    text-align-last: center;
+}
+
+.rooms{
+    overflow-y: scroll;
+    max-height: 150px;
+    text-align-last: center;
+}
+
+.sidebar{
+    max-width: 24%;
+}
+
+section{
+    padding: 0px;
+    margin-top: 12px;
+    margin-right: 24px;
+    width: auto;
+    max-width: 100%;
+    float: right;
+    display:inline;
+    margin-left:4%;
+    padding-bottom: 0px;
+    padding-top:0px;
+    background: rgba(191, 194, 207, 0.418);
+    border-radius: 16px;
+    box-shadow: 0 4px 30px rgb(15, 44, 206);
+    backdrop-filter: blur(5px);
+    -webkit-backdrop-filter: blur(5px);
+    border: 1px solid rgba(0, 0, 0, 0);
+    height: 78vh;
+}
+
+.detail{
+    background: rgba(191, 194, 207, 0.418);
+    border-radius: 16px;
+    box-shadow: 0 4px 30px rgb(15, 44, 206);
+    backdrop-filter: blur(5px);
+    -webkit-backdrop-filter: blur(5px);
+    border: 1px solid rgba(0, 0, 0, 0);
+}
+
+.plus-ixo{
+       padding: 2%;
+}
+
+@media screen and (max-width:1100px){
+    section{
+        padding: 0%;
+        margin: 0px;
+        margin-top: 26px;
+        margin-right: 0px;
+        max-width: 100%;
+        float: right;
+        display:inline;
+    margin-left:6%;
+    padding-top:0px;
+    padding-bottom: 0px;
+    overflow-x: hidden;
+    max-width: 100%;
+
+    }
+
+    .detail{
+        margin-left: 0px;
+        /* position: absolute; */
+    }
+}
+
+@media screen and (max-width:591px){
+    .imgico{
+        width:30px;
+    }
+    .navtext{
+        height: 0px;
+    }
+    .li{
+        width: 8px;
+    }
+}
+
+@media screen and (max-width:338px){
+        .home{
+            width: 40px;
+            height:44px;
+         }
+         .nav-tog{
+            width: 30px;
+            height:40px;
+         }
+         .mainlogo{
+             width: 30px;
+         } 
+}  
+
+.chats::-webkit-scrollbar {
+    display: none;
+  }
+  
+  /*HIDING SCROLLL BARS*/
+  /* Hide scrollbar for IE, Edge and Firefox */
+  .chats {
+  -ms-overflow-style: none;  /* IE and Edge */
+  scrollbar-width: none;  /* Firefox */
+  }
+  .peoples::-webkit-scrollbar {
+    display: none;
+  }
+  
+  /* Hide scrollbar for IE, Edge and Firefox */
+  .peoples {
+  -ms-overflow-style: none;  /* IE and Edge */
+  scrollbar-width: none;  /* Firefox */
+  }
+
+  .rooms::-webkit-scrollbar {
+    display: none;
+  }
+  
+  /* Hide scrollbar for IE, Edge and Firefox */
+  .rooms {
+  -ms-overflow-style: none;  /* IE and Edge */
+  scrollbar-width: none;  /* Firefox */
+  }
+
+    
+  * {
+    margin: 0;
+    padding: 0;
+    -webkit-box-sizing: border-box;
+            box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+  }
+  
+ 
+  main   div.chat-window {
+    width: 100%;
+    border-radius: 10px;
+    height: 100%;
+/* 
+background: rgba(58, 58, 66, 0.726);
+border-radius: 0px;
+box-shadow: 0 4px 30px rgb(25, 0, 255);
+backdrop-filter: blur(5px);
+-webkit-backdrop-filter: blur(5px);
+border: 1px solid rgba(0, 0, 0, 0); 
+*/
+  }
+  
+  main   div.chat-window div.chats {
+    min-height: 65vh;
+    padding: 20px;
+  }
+  
+  main   div.chat-window div.chats div.user-join {
+    font-size: 0.9rem;
+    color: #3f3f3f;
+    background-color: #ffffff;
+    border-radius: 50px;
+    width: -webkit-max-content;
+    width: -moz-max-content;
+    width: max-content;
+    padding: 7px 20px;
+    margin: 0 auto;
+    margin-bottom: 15px;
+  }
+  
+  main   div.chat-window div.chats div.message {
+    color: #3f3f3f;
+    background-color: #ffffff;
+    padding: 5px 15px;
+    max-width: 400px;
+    margin-bottom: 15px;
+    border-radius: 10px 50px 50px 10px;
+  }
+  
+  main   div.chat-window div.chats div.message p {
+    font-size: 16px;
+  }
+  
+  main   div.chat-window div.chats div.outgoing {
+    margin-left: auto;
+    color: #ffffff;
+    background-color: #2791cf;
+    border-radius: 50px 10px 10px 50px;
+    text-align: right;
+  }
+  
+  main   div.chat-window div.user-input {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: row;
+            flex-direction: row;
+    -webkit-box-align: stretch;
+        -ms-flex-align: stretch;
+            align-items: stretch;
+    -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
+    padding: 20px;
+  }
+  
+  main   div.chat-window div.user-input input {
+    font-size: 16px;
+    background-color: #ffffff;
+    padding: 10px 20px;
+    outline: none;
+    border: none;
+    width: 100%;
+    border-radius: 50px 0 0 50px;
+  }
+  
+  main   div.chat-window div.user-input button {
+    font-size: 16px;
+    font-weight: 600;
+    padding: 5px 15px;
+    outline: none;
+    border: none;
+    letter-spacing: 0.5px;
+    background-color: #2791cf;
+    color: #ffffff;
+    border-radius: 0 50px 50px 0;
+  }
+  
+  @media screen and (max-width: 900px) {
+    main   div.chat-window div.chats div.message {
+      max-width: 300px;
+    }
+}
+
+  .chats{
+    overflow-y:scroll;
+    max-height: 65vh ;
+  }
+
+  .section{
+      min-width: 70vw;
+      max-height: 180vh;
+      height: 100%;
+  }
+  
+@media screen and (max-width:991px){
+    .section{
+        min-width: 100vw;
+    }
+    .nav-tog{
+        visibility: visible;
+    }
+    main{
+        height: 100vh;
+    }
+    .home{
+       width: 45px;
+       height:46px;
+    }
+    .navhead{
+    border-radius: 0px;
+    }
+    section{
+        padding: 0%;
+        margin-top: 0px;
+        margin-right: 24px;
+        width: auto;
+        max-width: 100%;
+        float: right;
+        display:inline;
+        margin-left:3%;
+        padding-bottom: 0px;
+        padding-top:0px;
+        border-radius: 0px;
+        margin:0px;
+        padding: 0px;
+        margin-top: 0px;
+        margin-right: 0px;
+        height: 100vh;
+    }
+    .detail{
+        display: none;
+        z-index: 1;
+        margin: 0px;
+        position: absolute;
+        background: rgb(122, 122, 122);
+    border-radius: 16px;
+    box-shadow: 0 4px 30px rgb(15, 44, 206);
+    backdrop-filter: blur(5px);
+    -webkit-backdrop-filter: blur(5px);
+    border: 1px solid rgba(0, 0, 0, 0);
+    }
+    .sidebar{
+        position: absolute;
+    }
+    .navtext{
+        height: 0px;
+    }
+    .chats{
+        overflow-y:scroll;
+        max-height: 78vh ;
+        height: 78vh;
+      }
+    
+      .section{
+          min-width: 70vw;
+          max-height: 180vh;
+          height: 100vh;
+      }
+    
+      div.chat-window div.user-input{
+          /* position: absolute; */
+          bottom: 0;
+          width: 100%;
+      }
+      .section{
+        min-width: 70vw;
+        max-height: 180vh;
+        height: 100vh;
+        width: 100%;
+    }
+    .out{
+        min-width: 222px;
+        width: 48%;
+        margin-right:auto;
+    }
+    
+    .in{
+        min-width: 222px;
+        width: 48%;
+        margin-left: auto;
+    }
+    
+}

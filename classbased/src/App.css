@@ -1,0 +1,38 @@
+/* .container{ */
+    /* background: rgba(0,0,0,0.8);
+    backdrop-filter: blur(10px);
+  }
+  
+  @supports (-webkit-backdrop-filter: none) or (backdrop-filter: none) {
+    .container{
+      -webkit-backdrop-filter: blur(10px);
+      backdrop-filter: blur(10px);
+    }
+  } */
+  .container{
+      /* From https://css.glass */
+background: rgba(128, 121, 121, 0.38);
+border-radius: 16px;
+box-shadow: 0 4px 30px rgba(0, 36, 155, 0.671);
+backdrop-filter: blur(5px);
+-webkit-backdrop-filter: blur(5px);
+border: 0px solid rgba(255, 255, 255, 0.418);
+  }
+
+  .newscontainer{
+    min-height:100vh;
+  }
+
+  body{
+    background-image: url('gradian.webp');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  }
+
+  img{
+    width:10%;
+  }
+
+  @media only screen and (max-width:400px){
+   
+  } 

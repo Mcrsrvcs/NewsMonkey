@@ -1,0 +1,110 @@
+{
+    "status": "ok",
+    "totalResults": 8,
+    "articles": [
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "MoneyWatch: Super Bowl sports betting, stolen Bitcoin seized, and the Earned Income Tax Credit",
+            "description": "In this MoneyWatch report, millions of Americans are set to bet on Super Bowl LVI. The Justice Department has seized billions of dollars in stolen Bitcoin. And Americans should know about some big money-saving tax credits. CBS MoneyWatch reporter Irina Ivanov…",
+            "url": "https://www.cbsnews.com/video/moneywatch-super-bowl-sports-betting-crypto-earned-income-tax-credit/",
+            "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2022/02/09/e0c12dc3-6be8-4f64-932c-86c1f81809d0/thumbnail/1200x630/55ea382a06240c371e3389068bf58709/cbsn-fusion-moneywatch-super-bowl-sports-betting-crypto-seized-and-the-expanded-earned-income-tax-credit-thumbnail-891405-640x360.jpg",
+            "publishedAt": "2022-02-09T14:15:01+00:00",
+            "content": "Watch CBS News\r\nCopyright © 2022 CBS Interactive Inc. All rights reserved.\r\nGet browser notifications for breaking news, live events, and exclusive reporting.\r\nNot NowTurn On"
+        },
+        {
+            "source": {
+                "id": "cbc-news",
+                "name": "CBC News"
+            },
+            "author": "CBC News",
+            "title": "Canada's Steven Dubois wins short track Olympic silver medal | CBC Sports",
+            "description": "Olympicrookie Steven Dubois, the unlikeliest medal threat of Canada’s speed skating trio in the men’s 1,500 metres, won a silver medal in Beijing on Wednesday night.",
+            "url": "http://www.cbc.ca/sports/olympics/winter/short-track-speed-skating/olympics-short-track-speed-skating-canada-beijng-olympics-day-5-1.6342049",
+            "urlToImage": "https://i.cbc.ca/1.6344687.1644411327!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/1367997689.jpg",
+            "publishedAt": "2022-02-09T13:52:20.4902023Z",
+            "content": "Olympic rookie Steven Dubois, the unlikeliest medal threat of Canada's speed skating trio in the men's 1,500 metres, won a silver medal in a penalty-filled competition on Wednesday night in Beijing.\r… [+675 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Jacobellis redemption gives U.S. first gold after Shiffrin nightmare",
+            "description": "<a href=\"nL8N2UK22X\" target=\"_blank\">Lindsey Jacobellis</a>, a 36-year-old snowboarder who in 2006 gave away an overwhelming lead when she slipped and skidded on a showboating last jump, finally clinched Olympic gold on Wednesday. <a href=\"/lifestyle/sports/s…",
+            "url": "https://www.reuters.com/lifestyle/sports/jacobellis-redemption-gives-us-first-gold-after-shiffrin-nightmare-2022-02-09/",
+            "urlToImage": "https://www.reuters.com/resizer/nCNRWrJttNGuzA2JGmlLLJnVI-U=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/U2IS4MEM6JKKFFZQIVR4WZ76RE.jpg",
+            "publishedAt": "2022-02-09T11:06:25Z",
+            "content": "Feb 9 (Reuters) - Lindsey Jacobellis, a 36-year-old snowboarder who in 2006 gave away an overwhelming lead when she slipped and skidded on a showboating last jump, finally clinched Olympic gold on We… [+4562 chars]"
+        },
+        {
+            "source": {
+                "id": "le-monde",
+                "name": "Le Monde"
+            },
+            "author": "Richard Schittly",
+            "title": "La majorité écologiste à Lyon change les règles du marché des transports",
+            "description": "Après trente ans de délégation de service public unique, le président de la métropole propose l’allotissement de l’exploitation du métro, des trams et des bus, et promet un socle social aux salariés. Les syndicats appellent à la grève.",
+            "url": "https://www.lemonde.fr/economie/article/2022/02/09/a-lyon-la-majorite-ecologiste-change-les-regles-du-marche-des-transports_6112934_3234.html",
+            "urlToImage": "https://img.lemde.fr/2022/02/08/786/0/6000/2997/1440/720/60/0/16536f4_600836058-000-1r30m9.jpg",
+            "publishedAt": "2022-02-09T09:41:10Z",
+            "content": "Après la régie de leau, les transports. Après avoir repris à Veolia la gestion de la distribution de leau dès le début de son mandat, la majorité écologiste de la métropole de Lyon a décidé de remett… [+3028 chars]"
+        },
+        {
+            "source": {
+                "id": "cbc-news",
+                "name": "CBC News"
+            },
+            "author": "CBC News",
+            "title": "Canada in line for possible upgrade to podium in Olympic team figure skating | CBC Sports",
+            "description": "An ongoing legal issue involving the medallists in the team figure skating competition at the Beijing Olympics has caused the award ceremony to be delayed, the International Olympic Committee said Wednesday.",
+            "url": "http://www.cbc.ca/sports/olympics/winter/figure-skating/olympics-figure-skating-team-event-medal-ceremony-delayed-1.6344572",
+            "urlToImage": "https://i.cbc.ca/1.6344577.1644384182!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/schizas-madeline-020922.jpg",
+            "publishedAt": "2022-02-09T06:22:20.3688662Z",
+            "content": "An ongoing legal issue involving medallists in the team figure skating competition at the Beijing Olympics has caused the award ceremony to be delayed, the International Olympic Committee said Wednes… [+1216 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-sports",
+                "name": "Fox Sports"
+            },
+            "author": "FOX Sports",
+            "title": "Mikaela Shiffrin's stumbles magnified by the Olympics lens",
+            "description": "Mikaela Shiffrin's stumble just shows how the unpredictable nature of sports is magnified at the Olympics, Martin Rogers writes.",
+            "url": "http://www.foxsports.com/stories/olympics/mikaela-shiffrins-stumbles-magnified-by-the-olympics-lens",
+            "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/02/1408/814/shiffrin-wide-020822.jpg?ve=1&tl=1",
+            "publishedAt": "2022-02-09T05:06:04Z",
+            "content": "By Martin Rogers\r\nFOX Sports Columnist\r\nMikaela Shiffrin sat there in the snow, wondering, just like everyone else, what the heck had just happened. There werent any tears, not yet, because she was t… [+5826 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-sports",
+                "name": "Fox Sports"
+            },
+            "author": "FOX Sports",
+            "title": "Super Bowl 2022: L.A. loves its stars, Rams have plenty of them",
+            "description": "When it comes to L.A. sports, the method of operations is to go big, or to go on a fast track to irrelevance, Martin Rogers writes.",
+            "url": "http://www.foxsports.com/stories/nfl/super-bowl-2022-los-angeles-loves-its-stars-rams-have-plenty-of-them",
+            "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/02/1408/814/2.8.22_Los-Angeles-Finally-Got-It-Right_16x9.jpg?ve=1&tl=1",
+            "publishedAt": "2022-02-08T23:54:50Z",
+            "content": "By Martin Rogers\r\nFOX Sports Columnist\r\nIn Los Angeles, there is only one process thats good enough for the locals. The whole \"tank and rebuild\" philosophy doesnt really fly here. Building slowly doe… [+4742 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-times",
+                "name": "The Washington Times"
+            },
+            "author": "The Washington Times http://www.washingtontimes.com",
+            "title": "Latest Quizzes",
+            "description": "Take a break from the hard news of the day and enjoy a quiz on entertainment, sports, history and politics only from The Washington Times.",
+            "url": "https://www.washingtontimes.com/quiz/",
+            "urlToImage": null,
+            "publishedAt": "2021-02-10T03:52:37.2719772Z",
+            "content": "Featured Quizzes\r\nAttention all William Shakespeare experts. Pinpoint the prose's origin plucked from one of his many famous plays in this multiple-choice challenge.\r\n Shares \r\nName these legendary c… [+32652 chars]"
+        }
+    ]
+}
